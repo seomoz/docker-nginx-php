@@ -1,3 +1,6 @@
+# Current Version
+The current version of this image is registry.roger.dal.moz.com:5000/library/docker-nginx-php:0.3.1
+
 # Docker: Ubuntu, Nginx and PHP Stack
 
 This is the basis for LEMP stack (minus MySQL). This is based on [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) base Ubuntu image, which takes care of system issues which Docker's base Ubuntu image does not take care of, such as watching processes, logrotate, ssh server, cron and syslog-ng.
